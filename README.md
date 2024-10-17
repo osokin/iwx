@@ -1,5 +1,5 @@
 
-# A port of OpenBSD iwx driver to FreeBSD
+# A port of OpenBSD iwx(4) driver to FreeBSD
 
 Based on https://www.freebsd.org/doc/en_US.ISO8859-1/books/arch-handbook/pci.html example.
 
