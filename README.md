@@ -17,7 +17,7 @@ make install
 
 #### HOWTO RUN:
 ```
-kldload iwx
+kldload if_iwx
 ```
 
 #### TODO:
